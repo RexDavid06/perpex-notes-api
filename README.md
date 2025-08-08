@@ -31,7 +31,7 @@ Installation & Setup
 
 1. Clone the repository
 
-    git clone https://github.com/your-username/perpex-notes-api.git
+    git clone https://github.com/RexDavid06/perpex-notes-api.git
     cd perpex-notes-api
 
 2. Create and activate virtual environment
@@ -80,7 +80,7 @@ Author
 Buchi Rex-David  
 Intern @ Perpex  
 Email: rhexmilia06@gmail.com  
-LinkedIn: https://linkedin.com/in/buchi-rex-david  
+LinkedIn: https://www.linkedin.com/in/rex-david-buchi-54493a241/
 GitHub: https://github.com/RexDavid06
 
 -------------------------------------
